@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/latina-json-server/configurator",
-          "last_update": "2020-03-25T11:51:31+00:00",
+          "last_update": "2020-03-25T11:51:32+00:00",
           "order": 6,
           "async": false,
           "always": false
@@ -102,7 +102,7 @@
           "id": 2,
           "type": 2,
           "title": "mynews",
-          "url": "https://sa.ciociariaoggi.it/api/push_to_user.php",
+          "url": "https://editorialeoggi.serverapp.it/api/push_to_user.php",
           "config": {
             "cell_type": 2,
             "first_cell": 4,
