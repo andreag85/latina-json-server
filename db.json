@@ -127,7 +127,7 @@
           "id": 4,
           "type": 4,
           "title": "Configura notifiche",
-          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/sendPreferences",
+          "url": "http:\/\/editorialeoggi.serverapp.it\/api\/preferenze.php",
           "config": {
             "preferences_list": [
               {
