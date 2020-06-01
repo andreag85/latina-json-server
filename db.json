@@ -80,7 +80,7 @@
         {
           "name": "URL_ZONE",
           "url": "https://editorialeoggi.serverapp.it/api/zone.php",
-          "last_update": "2020-03-2T11:51:25+00:00",
+          "last_update": "2020-03-25T11:51:25+00:00",
           "order": 10,
           "async": false,
           "always": true
