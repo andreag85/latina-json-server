@@ -80,15 +80,15 @@
         {
           "name": "URL_ZONE",
           "url": "https://editorialeoggi.serverapp.it/api/zone.php",
-          "last_update": "2020-03-25T11:51:26+00:00",
+          "last_update": "2020-03-25T11:51:27+00:00",
           "order": 10,
           "async": false,
-          "always": true
+          "always": false
         },
         {
           "name": "URL_TIPOLOGIE",
           "url": "https://editorialeoggi.serverapp.it/api/tipologie.php",
-          "last_update": "2020-03-25T11:51:25+00:00",
+          "last_update": "2020-03-25T11:51:26+00:00",
           "order": 11,
           "async": false,
           "always": false
