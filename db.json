@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/latina-json-server/configurator",
-          "last_update": "2020-03-25T11:51:34+00:00",
+          "last_update": "2020-03-25T11:51:35+00:00",
           "order": 6,
           "async": false,
           "always": false
@@ -80,7 +80,7 @@
         {
           "name": "URL_ZONE",
           "url": "https://editorialeoggi.serverapp.it/api/zone.php",
-          "last_update": "2020-03-25T11:51:25+00:00",
+          "last_update": "2020-03-25T11:51:26+00:00",
           "order": 10,
           "async": false,
           "always": true
@@ -88,7 +88,7 @@
         {
           "name": "URL_TIPOLOGIE",
           "url": "https://editorialeoggi.serverapp.it/api/tipologie.php",
-          "last_update": "2020-03-25T11:51:24+00:00",
+          "last_update": "2020-03-25T11:51:25+00:00",
           "order": 11,
           "async": false,
           "always": false
@@ -149,12 +149,12 @@
             "preferences_list": [
               {
                 "title": "Personalizza le categorie",
-                "preference": "topic"
+                "preference": "tipologie"
               },
               {
                 "title": "Filtra per zona",
                 "preference": "area",
-                "if_selected": "topic"
+                "if_selected": "zone"
               }
             ]
           },
