@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/latina-json-server/configurator",
-          "last_update": "2020-03-25T11:51:37+00:00",
+          "last_update": "2020-03-25T11:51:38+00:00",
           "order": 6,
           "async": false,
           "always": false
@@ -126,7 +126,7 @@
             "max_articles": 20,
             "max_days_articles": 3,
             "preferences_configurator": 4,
-            "kind":131
+            "kind": 131
           },
           "auth": false
         },
@@ -144,7 +144,7 @@
           "id": 4,
           "type": 4,
           "title": "Configura notifiche",
-          "url": "http:\/\/editorialeoggi.serverapp.it\/api\/preferenze.php",
+          "url": "http://editorialeoggi.serverapp.it/api/preferenze.php",
           "config": {
             "preferences_list": [
               {
@@ -167,6 +167,25 @@
           "url": "",
           "config": {},
           "auth": false
+        },
+        {
+          "id": 6,
+          "type": 6,
+          "title": "Contatta gli sviluppatori",
+          "url": "http://editorialeoggi.serverapp.it/api/segnala.php",
+          "config": {
+            "segn": {
+              "btn": "NUOVA SEGNALAZIONE",
+              "titolo":"Aiutaci a migliorare",
+              "testi": [
+                {
+                  "testo": "Hai trovato un problema? Segnalacelo attraverso questo servizio ed aiutaci ad offrire un servizio migliore. Grazie",
+                  "tf": "n"
+                }
+              ]
+            },
+            "auth": true
+          }
         }
       ]
     }
