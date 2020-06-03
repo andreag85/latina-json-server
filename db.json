@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/latina-json-server2/configurator",
-          "last_update": "2020-03-25T11:51:39+00:00",
+          "last_update": "2020-03-25T11:51:40+00:00",
           "order": 6,
           "async": false,
           "always": false
