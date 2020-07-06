@@ -108,7 +108,8 @@
         "edicola_digitale_package": "andr.editorialeoggi.kioskciociaria",
         "domain": "ciociariaoggi.it",
         "old_appregister": true,
-        "old_server": true
+        "old_server": true,
+        "registration_configurator_id": 9
       }
     },
     "message": null
