@@ -109,7 +109,15 @@
         "domain": "ciociariaoggi.it",
         "old_appregister": true,
         "old_server": true,
-        "registration_configurator_id": 10
+        "registration_configurator_id": 10,
+        "social_fb_app_id":"136411303231673",
+        "social_fb_site_id":"latinaoggieditoriale",
+        "social_tw_app_id":"4328624361",
+        "social_tw_site_id":"Latina_Oggi",
+        "social_i_app_id":"latinaoggi",
+        "social_i_site_id":"latinaoggi",
+        "social_tg_app_id":"latinaoggi",
+        "social_tg_site_id":"latinaoggi"
       }
     },
     "message": null
