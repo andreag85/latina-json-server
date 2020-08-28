@@ -142,7 +142,7 @@
           "ads": 334,
           "push_sound": "",
           "preferences": {
-            "topic": [
+            "tipologie": [
               59,
               16,
               20,
@@ -152,7 +152,7 @@
               41,
               23
             ],
-            "area": [
+            "zone": [
               100,
               146,
               99,
